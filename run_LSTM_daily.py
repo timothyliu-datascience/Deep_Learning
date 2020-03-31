@@ -1,4 +1,4 @@
-# LSTM for modeling daily number of approvals
+# The Long Short-Term Memory Network (LSTM) for modeling daily number of approvals
 import numpy
 import matplotlib.pyplot as plt
 from pandas import read_csv
